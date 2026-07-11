@@ -1,0 +1,17 @@
+### Musicas
+
+1. [A Brotherhood of Heroes (Call of Duty: WWII)](https://www.youtube.com/watch?v=XcHDVwL-1W8)
+2. [A Watering Hole in the Harbor (The Witcher II)](https://www.youtube.com/watch?v=3X_xammncfQ)
+3. [Alpha Centauri (Stellaris)](https://www.youtube.com/watch?v=qurD9J6jkBM)
+4. [Journey (Amerzone The Explorer Legacy)](https://www.youtube.com/watch?v=lgGw0Z4iz4M)
+5. [Aurora's Theme (Child of Light)](https://www.youtube.com/watch?v=LHI_yxFLw8w)
+6. [Bowerlake (Fable II)](https://www.youtube.com/watch?v=42y-txvEa9A)
+7. [Bowerstone (Fable I)](https://www.youtube.com/watch?v=C7BdKq4Hnuk)
+8. [Creator (Minecraft)](https://www.youtube.com/watch?v=Qtf8YFw8iZg)
+9. [Deep Space Travels (Stellaris)](https://www.youtube.com/watch?v=Cx2IkXr8XUE)
+10. [Destructor (Minecraft Unofficial)](https://www.youtube.com/watch?v=sdpX8QfrVgs)
+11. [Mall Rat (The Sims)](https://www.youtube.com/watch?v=4rFmI0hK4d4)
+12. [Old Times Battle Bard Version (Baldur's Gate III)](https://www.youtube.com/watch?v=Zj8cCfnP_hQ)
+13. [Skogen (Fe)](https://www.youtube.com/watch?v=msmM_sXR7W8)
+14. [Temple Of Time](https://www.youtube.com/watch?v=BE4Nwy6U_vo)
+15. [You're Immortal (The Witcher III)](https://www.youtube.com/watch?v=W2QX6Lm4iXE)
