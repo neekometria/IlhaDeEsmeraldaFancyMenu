@@ -1,0 +1,10 @@
+type = listener_instances
+
+listener_instance {
+  listener_instance_identifier = 6c43cbc9-da74-4fea-bed9-022c71af048b-1784945524498
+  listener_provider_identifier = fm_data_received
+  listener_instance_action_script_identifier = 32320a04-4c15-46c0-a8d7-376bd3db5fc5-1784945524498
+  [executable_action_instance:5d426cc8-cde7-4080-9656-777c7f4d1584-1784951302393][action_type:set_variable] = $$data_identifier:$$data
+  [executable_block:32320a04-4c15-46c0-a8d7-376bd3db5fc5-1784945524498][type:generic] = [executables:5d426cc8-cde7-4080-9656-777c7f4d1584-1784951302393;]
+}
+

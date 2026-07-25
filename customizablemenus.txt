@@ -3,9 +3,6 @@ type = customizablemenus
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
 net.minecraft.client.gui.screens.options.OptionsScreen {
 }
 
@@ -58,5 +55,11 @@ io.github.satxm.mcwifipnp.client.ShareToLanScreenNew {
 }
 
 com.getitemfromblock.create_tweaked_controllers.gui.ModConfigScreen {
+}
+
+net.minecraft.client.gui.screens.ChatScreen {
+}
+
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
 }
 

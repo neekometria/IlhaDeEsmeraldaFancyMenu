@@ -1,2 +1,80 @@
 type = user_variables
 
+variable {
+  name = strength
+  value = 3
+  reset_on_launch = false
+}
+
+variable {
+  name = level
+  value = 6
+  reset_on_launch = false
+}
+
+variable {
+  name = xppercent
+  value = 39.621212121212125
+  reset_on_launch = false
+}
+
+variable {
+  name = speed
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = xppeeded
+  value = 1320
+  reset_on_launch = false
+}
+
+variable {
+  name = intelligence
+  value = 1
+  reset_on_launch = false
+}
+
+variable {
+  name = dexterity
+  value = 3
+  reset_on_launch = false
+}
+
+variable {
+  name = attributestospend
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = mana
+  value = 26
+  reset_on_launch = false
+}
+
+variable {
+  name = maxhealth
+  value = 234
+  reset_on_launch = false
+}
+
+variable {
+  name = attack
+  value = 1
+  reset_on_launch = false
+}
+
+variable {
+  name = vitality
+  value = 4
+  reset_on_launch = false
+}
+
+variable {
+  name = xp
+  value = 523
+  reset_on_launch = false
+}
+
